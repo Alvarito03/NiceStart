@@ -8,7 +8,14 @@ La aplicacion esta compuesta por diferentes vistas que veras a continuacion:
 ![activity inicio](img/Inicio.PNG)
 
 Esta es la primera pantalla que se reproducira al abrir la aplicacion, la cual tiene una animación
-en el logo y además pasara a la siguiente vista sin necesidad de tocar la pantalla
+en el logo.
+
+![activity animacion](img/GifSplash.gif)
+
+
+
+
+ Además pasara a la siguiente vista sin necesidad de tocar la pantalla
 después de un pequeño periodo de tiempo.
 
 ![activity login](img/Login.PNG)
@@ -36,4 +43,8 @@ de la aplicación y un boton para enviar los datos, pero como he dicho anteriorm
 
 
 También me gustaria hacer referencia a que he trabajado con Jaime el compañero de clase con el que me he puesto de acuerdo,
-para realizar un pull request cada uno al otro añdaiendonos animaciones nuevas a la carpeta de animaciones.
+para realizar un pull request cada uno al otro añdaiendonos animaciones nuevas a la carpeta de animaciones.Aqui dejo el link
+para que se pueda ver que el Pull Request se ha realizado:
+Yo he añadido lo siguiete [añadir](https://github.com/JimmySpider/NiceStart/network)
+
+Jaime ha añdadido a mi proyecto [incluyo](https://github.com/Alvarito03/NiceStart/network)
